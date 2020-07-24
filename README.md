@@ -2,6 +2,8 @@
 ![Twitter Follow](https://img.shields.io/twitter/follow/emanoelvianna?style=social)
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanoelvianna/)](https://www.linkedin.com/in/eliasnogueira/)
 
+I have a degree in Computer Science from the Pontifical Catholic University of Rio Grande do Sul (PUCRS) and I am currently a master's student in Computer Science from the Federal University of Rio Grande do Sul (UFRGS). I am interested in the areas of artificial intelligence and data mining. My work at the end of graduation aimed to assist in the understanding of the spread of yellow fever in a population (Epidemiological simulation of the spread of yellow fever using Multiagent Systems and Geoprocessing techniques).
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=emanoelvianna&hide=["prs","issues"])
 
 <!--
