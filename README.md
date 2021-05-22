@@ -3,8 +3,6 @@
 
 I have a degree in Computer Science from the Pontifical Catholic University of Rio Grande do Sul (PUCRS) and I am currently a master's student in Computer Science from the Federal University of Rio Grande do Sul (UFRGS). I am interested in the areas of artificial intelligence and data mining. My work at the end of graduation aimed to assist in the understanding of the spread of yellow fever in a population (Epidemiological simulation of the spread of yellow fever using Multiagent Systems and Geoprocessing techniques).
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=emanoelvianna&hide=["prs","issues"])
-
 <!--
 **emanoelvianna/emanoelvianna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,5 +17,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emanoelvianna&theme=buefy&layout=compact)
