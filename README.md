@@ -1,5 +1,7 @@
 ## Hi there, I'm Emanoel Vianna 👋
+<!--
 [![Linkedin Badge](https://img.shields.io/badge/-Add&nbsp;Me-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanoelvianna/)](https://www.linkedin.com/in/emanoelvianna/) [![Gmail Badge](https://img.shields.io/badge/-vianna.emanoel@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vianna.emanoel@gmail.com)](mailto:vianna.emanoel@gmail.com)
+-->
 
 I have a degree in Computer Science from the Pontifical Catholic University of Rio Grande do Sul (PUCRS) and I am currently a master's student in Computer Science from the Federal University of Rio Grande do Sul (UFRGS). I am interested in the areas of artificial intelligence and data mining. My work at the end of graduation aimed to assist in the understanding of the spread of yellow fever in a population (Epidemiological simulation of the spread of yellow fever using Multiagent Systems and Geoprocessing techniques).
 
